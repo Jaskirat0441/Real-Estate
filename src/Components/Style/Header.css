@@ -1,0 +1,32 @@
+.banner-container{
+    background-image:url(./../../../public/banner2.jpg);
+     height: 400px;
+}
+.alert-geniobits{
+    bottom: 0px;
+    left: 8px;
+    margin: 0 auto;
+    right: 8px;
+    display: flex;
+    width: 50%;
+    z-index: 1400;
+    position: fixed !important;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.user-icons{
+    font-size: 25px;
+}
+.user-img{
+    font-size: 200px;
+}
+.single-prop-img{
+    width: 500px;
+}
+.agent-info{
+    width: 50%;
+}
+.agent-image{
+    width: 110px;
+}
